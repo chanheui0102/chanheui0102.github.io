@@ -1,4 +1,3 @@
-User-agent: *
+ser-agent: *
 Allow: /
-
-Sitemap: https://junsk1016.github.io/sitemap.xml
+Sitemap: http://chanheui0102.github.io/sitemap.xml
